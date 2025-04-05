@@ -34,7 +34,7 @@ export default function Header() {
           className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent cursor-pointer hover:scale-105 transition-transform animate-gradient"
           onClick={() => navigate('/')}
         >
-          Crossyyy AI
+          Cozzy AI
         </div>
 
         {/* Desktop Navigation */}
